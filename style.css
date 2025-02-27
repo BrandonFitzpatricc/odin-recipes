@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(213, 189, 133)
+}
+
+.center {
+    margin: auto;
+}
+
+.align-text {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.sans-serif {
+    font-family: Sans-serif;
+}
+
+.border {
+    border: 5px solid black;
+}
+
+.header {
+    font-family: "Courier New", Monospace;
+    font-size: 48px;
+}
+
+.sub-header {
+    font-size: 32px;
+}
+
+ul, ol {
+    width: 20%;
+    list-style-type: none;
+    padding: 10px;
+    background-color: white;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+img {
+    height: auto;
+    width: 500;
+    display: block;
+}
+
+.description {
+    margin-top: 10px;
+    width: 40%;
+    font-size: 18px;
+}
+
+#home {
+    margin-top: 20px;
+    font-size: 24px;
+}
