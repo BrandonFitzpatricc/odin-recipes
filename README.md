@@ -14,3 +14,4 @@ This is a basic recipe website that was created using HTML and CSS, which demons
 - CSS properties
 - CSS specificity
 - CSS inheritance
+- CSS box model
