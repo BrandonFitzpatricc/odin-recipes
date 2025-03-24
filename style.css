@@ -81,7 +81,7 @@ a:hover {
 }
 
 .image-and-description {
-    padding-left: 21%;
+    padding-left: 18%;
 }
 
 img {
@@ -92,7 +92,7 @@ img {
 .description {
     vertical-align: top;
     width: 40%;
-    margin: -1em 0 -1em 5%;
+    margin: -1em 0 -1em 10%;
 }
 
 .description p {
@@ -114,5 +114,5 @@ img {
 }
 
 #home {
-    margin: 2% 0;
+    margin-bottom: 3%
 }
