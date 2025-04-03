@@ -45,12 +45,12 @@ body {
     display: inline-block;
 }
 
-.header {
+.heading {
     font-family: "Courier New", Monospace;
     font-size: 48px;
 }
 
-.sub-header {
+.sub-heading {
     font-size: 32px;
 }
 
